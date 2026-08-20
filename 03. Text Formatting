@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Formatting</title>
+</head>
+<body>
+    <h1>Tags for different formats</h1>
+    <h2>Bold</h2>
+    <p>My name is <b>Marut Shrivastav</b></p>
+    <h2>Italic</h2>
+    <p>I am learning <i>Web Dev</i></p>
+    <h2>Underlined</h2>
+    <p>This page is for <u>formatting tags</u></p>
+    <h2>Strikethrough</h2>
+    <p>My name is <s>Prashant Singh</s> <b>Marut Shrivastav</b></p>
+    <h2>Superscript</h2>
+    <p>No. of outputs in decoder is equal to 2<sup>n</sup>, where n is no. of inputs</p>
+    <h2>Subscript</h2>
+    <p>Chemical formula of water is H<sub>2</sub>O</p>
+</body>
+</html>
