@@ -14,6 +14,6 @@
     <h4>This is even smaller but a heading</h4>
     <h5>This is even smaller but a heading</h5>
     <h6>This is the last stage of heading</h6>
-    <p>Headings goes upto 6 levels and this is the paragraph for the 6th level heading</p>
+    <p>Headings goes upto 6 levels. <br> This is the paragraph for the 6th level heading. <br> br tag is used to change the line.</p>
 </body>
 </html>
