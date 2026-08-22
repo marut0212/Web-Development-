@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <h1>Links</h1>
+     <!-- This will open link in same webpage -->
+    <p>This is my <a href="https://www.instagram.com/marut_sri.ig/">Instagram</a></p> 
+    <!-- This will open link in another webpage beacuse target="_blank" is used -->
+    <p>This is my <a href="https://github.com/marut0212" target="_blank">Github</a></p>
+
+    <!-- This will link section of same website -->
+     <p><a href="text_formatting.html" target="_blank">Text formatting</a></p>
+
+     <!-- This will link section of same webpage -->
+      <p><a href="#end">Go to end</a></p>
+
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus, fugiat velit! Impedit sequi sint fugit recusandae, asperiores, quasi temporibus soluta culpa maxime, quae placeat. Temporibus voluptatibus earum, voluptatem expedita aliquam quisquam veritatis cumque quaerat possimus quidem laboriosam architecto similique excepturi commodi! Ducimus obcaecati nobis nulla mollitia atque reiciendis excepturi quisquam perferendis tempora dicta soluta minima incidunt nemo modi dolorum eveniet, cumque neque vel accusamus voluptatem quod debitis fuga. Dolor aspernatur dicta amet facere aperiam ullam voluptas esse similique sed. Perspiciatis non mollitia laboriosam provident et earum tempore sunt omnis perferendis? Rerum fuga tenetur laboriosam unde nam perspiciatis, porro atque mollitia natus distinctio aperiam, quam iusto aliquid deserunt alias vitae sit eveniet hic iure! Perspiciatis eaque rem officia fugiat cumque. Ducimus totam possimus ex et illum nesciunt sapiente dolorum repudiandae molestias? Non corporis, quidem alias iusto eius excepturi quasi praesentium modi repudiandae commodi fuga, voluptates officia eum officiis. Aliquam ea aliquid aut? Placeat deserunt tenetur explicabo accusamus ab, saepe maxime reiciendis suscipit veniam porro voluptatibus est dolor repellat fugiat rem modi quidem blanditiis. Sequi nihil maxime repellendus tenetur eius deserunt molestiae? Quis inventore officiis unde architecto molestias nemo et, perferendis, illum, itaque in vitae facilis nulla cumque accusantium a expedita. Ratione, aliquid? Distinctio fuga repudiandae vero itaque amet libero eligendi sed modi sunt. Similique fugit accusantium labore possimus reprehenderit! Animi molestias suscipit aspernatur modi alias, dolore quasi debitis eius reiciendis dolores dolor nesciunt sed nemo voluptates provident. Repellat ab quia quibusdam facilis tempore? Asperiores tempora, quos qui possimus maiores impedit consequuntur hic perferendis, ad laboriosam, quaerat ab cum aliquam consectetur harum odit? Blanditiis impedit quo nesciunt tempore eos hic. Ut laudantium, nisi temporibus officiis non voluptates, sunt deserunt eveniet reprehenderit dolores cupiditate perferendis repellat quos saepe quam modi id doloremque dolor voluptatibus mollitia eos. Culpa minima ut esse. Amet earum sequi ratione? Nobis voluptatem sed commodi! Beatae at odio praesentium sit iusto dolore aut iure laboriosam magnam omnis earum suscipit delectus, excepturi eum perferendis labore vero maiores harum dolores cum minima officia! Blanditiis harum nostrum dolorum vel sed porro error sint. Asperiores recusandae facere rem ea? Officia dolor, quisquam odit quas provident suscipit debitis itaque? Ratione expedita ex officia iure laborum sapiente non ipsum. Quod aut obcaecati cumque quidem nulla magni ea sapiente necessitatibus, itaque non alias placeat, culpa iusto similique quibusdam cupiditate? Ea nulla minus facilis sint provident excepturi ipsam quidem autem, quas enim, similique aspernatur unde? Cum commodi dignissimos maiores repellendus, dolorem sapiente excepturi aliquid nisi corrupti ipsam quibusdam expedita amet ratione dicta unde pariatur assumenda doloremque, laudantium, ea fuga illo similique dolorum! Inventore doloribus maxime fugiat recusandae cumque sit, modi molestias, quis sunt quos totam consequuntur repellat facilis corrupti quasi. Praesentium earum reiciendis sed architecto quos incidunt quaerat quae perspiciatis. Deserunt atque, repellat ipsa eligendi eaque id magnam esse sed culpa quos molestias quis necessitatibus nisi nemo non ducimus officiis blanditiis animi sunt. Nostrum vitae, incidunt quod veritatis mollitia, vel nihil blanditiis dolor, corrupti repellendus dignissimos placeat velit! Quia ut fugit maxime soluta, eaque dolore itaque magni facilis.</p>
+       
+
+      <!-- for email -->
+       <a href="mailto:marutsrivastav8@gmail.com">Send Email</a>
+       <!-- for contact -->
+        <a href="tel:9696148770">Call us</a>
+      <p id="end">This is the end</p>
+</body>
+</html>
