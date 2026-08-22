@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+</head>
+<body>
+    <h1>Lucnkow Images</h1>
+    <p>Here are some of my favouriye images of my favourite city Lucknow</p>
+    <img width="400px" src="https://images.pexels.com/photos/36493429/pexels-photo-36493429.jpeg?_gl=1*p4oyhb*_ga*MTY5ODcwNDA5LjE3ODczNzU3NjY.*_ga_8JE65Q40S6*czE3ODczNzU3NjUkbzEkZzEkdDE3ODczNzU3ODQkajQxJGwwJGgw" alt="Clocktower">
+    <img width="400px" src="https://images.pexels.com/photos/34621080/pexels-photo-34621080.jpeg?_gl=1*14ki88r*_ga*MTY5ODcwNDA5LjE3ODczNzU3NjY.*_ga_8JE65Q40S6*czE3ODczNzU3NjUkbzEkZzEkdDE3ODczNzU4NjckajQwJGwwJGgw" alt="Charbagh Railway Station">
+    <br> <!--Using br will take third phote below-->
+    <img width="400px" src="https://images.pexels.com/photos/34459414/pexels-photo-34459414.jpeg?_gl=1*1hz2n0k*_ga*MTY5ODcwNDA5LjE3ODczNzU3NjY.*_ga_8JE65Q40S6*czE3ODczNzU3NjUkbzEkZzEkdDE3ODczNzU5OTEkajM4JGwwJGgw" alt="">
+    
+</body>
+</html>
