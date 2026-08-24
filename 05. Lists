@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists</title>
+</head>
+
+<body>
+    <h1>Lists</h1>
+    <ul>
+        <h2><u>Unordered Lists</u></h2>
+        <li>My name is Marut Shrivastav</li>
+        <li>I belong to Raebareli</li>
+        <li>I completed by schooling from Gopal Saraswati Vidya Mandir</li>
+        <li>I am currently learning Web Development</li>
+    </ul>
+
+    <ol>
+        <h2><u>Ordered Lists</u></h2>
+        <p>Rankig G.O.A.T.S of Cricket</p>
+        <li>Sir Don Bradman</li>
+        <li>Sachin Tendulkar</li>
+        <li>Jack Kallis</li>
+        <li><s>AB de Villiars</s>MS Dhoni</li>
+    </ol>
+
+    <dl>
+        <h2><u>Description Lists</u></h2>
+        <dt>Name</dt>
+        <dd>Marut Shrivastav</dd>
+
+        <dt>Learning?</dt>
+        <dd>I am currently learning Web Development</dd>
+    </dl>
+
+    <ul>
+        <h2><u>Nested Lists</u></h2>
+        <li> Fruits
+            <ul>
+                <li>Mango</li>
+                <li>Banana</li>
+                <li>Apple</li>
+                <li>Pineapple</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+
+</html>
